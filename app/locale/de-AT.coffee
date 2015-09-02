@@ -53,13 +53,13 @@ module.exports = nativeDescription: "Deutsch (Österreich)", englishDescription:
     players: "Spieler" # Hover over a level on /play
     hours_played: "Stunden gespielt" # Hover over a level on /play
     items: "Gegenstände" # Tooltip on item shop button from /play
-#    unlock: "Unlock" # For purchasing items and heroes
+    unlock: "Freischalten" # For purchasing items and heroes
     confirm: "Bestätigen"
-#    owned: "Owned" # For items you own
+    owned: "in Besitz" # For items you own
     locked: "Gesperrt"
-#    purchasable: "Purchasable" # For a hero you unlocked but haven't purchased
+    purchasable: "käuflich zu erwerben" # For a hero you unlocked but haven't purchased
     available: "Verfügbar"
-#    skills_granted: "Skills Granted" # Property documentation details
+    skills_granted: "erteilte Fähigkeiten" # Property documentation details
     heroes: "Helden" # Tooltip on hero shop button from /play
     achievements: "Erfolge" # Tooltip on achievement list button from /play
     account: "Account" # Tooltip on account button from /play
@@ -69,15 +69,15 @@ module.exports = nativeDescription: "Deutsch (Österreich)", englishDescription:
     change_hero: "Held wechseln" # Go back from choose inventory to choose hero
     choose_inventory: "Gegenstände ausrüsten"
     buy_gems: "Juwelen kaufen"
-#    subscription_required: "Subscription Required"
+    subscription_required: "Abonnement (Mitgliedschaft) erforderlich"
     anonymous: "Anonymer Spieler"
     level_difficulty: "Schwierigkeit: "
     campaign_beginner: "Anfängerkampagne"
-#    awaiting_levels_adventurer_prefix: "We release new levels every week."
-#    awaiting_levels_adventurer: "Sign up as an Adventurer"
-#    awaiting_levels_adventurer_suffix: "to be the first to play new levels."
-#    adjust_volume: "Adjust volume"
-    campaign_multiplayer: "Multiplayerarena"
+    awaiting_levels_adventurer_prefix: "Wir veröffentlichen jede Woche neue Level" #We release new levels every week.
+    awaiting_levels_adventurer: "Melde Dich als Abenteurer an"#"Sign up as an Adventurer"
+    awaiting_levels_adventurer_suffix: "um der Erste zu sein, der neue Level spielen kann. #"to be the first to play new levels."
+    adjust_volume: "Lautstärke einstellen"
+    campaign_multiplayer: "Multiplayer-Arena"
     campaign_multiplayer_description: "... in der Du Kopf-an-Kopf gegen andere Spieler programmierst."
 #    campaign_old_multiplayer: "(Deprecated) Old Multiplayer Arenas"
 #    campaign_old_multiplayer_description: "Relics of a more civilized age. No simulations are run for these older, hero-less multiplayer arenas."
